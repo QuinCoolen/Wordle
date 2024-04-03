@@ -1,0 +1,15 @@
+/Users/quincoolen/Projects/fontys/software/Wordle/bin/Debug/net7.0/Wordle
+/Users/quincoolen/Projects/fontys/software/Wordle/bin/Debug/net7.0/Wordle.deps.json
+/Users/quincoolen/Projects/fontys/software/Wordle/bin/Debug/net7.0/Wordle.runtimeconfig.json
+/Users/quincoolen/Projects/fontys/software/Wordle/bin/Debug/net7.0/Wordle.dll
+/Users/quincoolen/Projects/fontys/software/Wordle/bin/Debug/net7.0/Wordle.pdb
+/Users/quincoolen/Projects/fontys/software/Wordle/obj/Debug/net7.0/Wordle.csproj.AssemblyReference.cache
+/Users/quincoolen/Projects/fontys/software/Wordle/obj/Debug/net7.0/Wordle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/quincoolen/Projects/fontys/software/Wordle/obj/Debug/net7.0/Wordle.AssemblyInfoInputs.cache
+/Users/quincoolen/Projects/fontys/software/Wordle/obj/Debug/net7.0/Wordle.AssemblyInfo.cs
+/Users/quincoolen/Projects/fontys/software/Wordle/obj/Debug/net7.0/Wordle.csproj.CoreCompileInputs.cache
+/Users/quincoolen/Projects/fontys/software/Wordle/obj/Debug/net7.0/Wordle.dll
+/Users/quincoolen/Projects/fontys/software/Wordle/obj/Debug/net7.0/refint/Wordle.dll
+/Users/quincoolen/Projects/fontys/software/Wordle/obj/Debug/net7.0/Wordle.pdb
+/Users/quincoolen/Projects/fontys/software/Wordle/obj/Debug/net7.0/Wordle.genruntimeconfig.cache
+/Users/quincoolen/Projects/fontys/software/Wordle/obj/Debug/net7.0/ref/Wordle.dll
